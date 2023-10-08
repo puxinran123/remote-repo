@@ -1,0 +1,22 @@
+body {border-top:20px ;
+    border-left: 130px;
+    border-right: 50px;
+    border-bottom: 20px;
+    border:30px rgb(132, 177, 111) dotted;
+    background-image: url("C:/Users/31346px/Desktop/images/bj.jpg");
+    background-color: rgb(250, 241, 196);
+    text-align: center;
+    
+    
+}
+h1 {
+    color: rgb(230, 152, 27);
+    text-align: center;
+    font-size: 60px;
+    text-decoration: underline;
+}
+ul {
+    color: rgb(255, 182, 57);
+    font-size: 45px;
+    font-weight: bold;
+}
